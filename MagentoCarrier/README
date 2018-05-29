@@ -1,0 +1,3 @@
+Para crear el paquete desde la carpeta del módulo (Redyser/MagentoCarrier):
+
+zip -r redyser_magento-carrier-1.0.0.zip * -x './.git/*' -x './.idea/*'
